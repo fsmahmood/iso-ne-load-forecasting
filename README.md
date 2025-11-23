@@ -4,7 +4,7 @@
 
 This project builds an end-to-end **electricity demand forecasting pipeline** using publicly available ISO-NE hourly load data, spanning from **February 11, 2021 to June 23, 2025**. The goal is to produce **high-accuracy, operationally reliable forecasts** suitable for grid planning and energy market decision-making.
 
-📌 For a quick overview, start with: [`03_final_results.ipynb`](notebooks/03_final_results.ipynb)
+📌 For a quick overview, start with: [`03_final_results.ipynb`](iso-ne-load-forecasting/notebooks/03_final_results.ipynb)
 
 ---
 
