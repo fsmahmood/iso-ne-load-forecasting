@@ -18,7 +18,7 @@ This project builds an end-to-end **electricity demand forecasting pipeline** us
 | **Evaluation** | Train/test split (test data from July 2024 to June 2025), metrics computed **only on non-imputed hours** |
 | **Result** | Ridge Regression with lag + calendar + HDD/CDD features achieved **3.41% MAPE** on the test period, with **2.73% MAPE** for the top 50 peak demand hours. |
 
-📊 **A quick side-by-side model comparison appears in [`02_modeling.ipynb`](notebooks/02_modeling.ipynb) — including naive, seasonal-naive, Holt-Winters, and the Ridge model.**
+📊 **A quick side-by-side model comparison appears in [`02_modeling.ipynb`](iso-ne-load-forecasting/notebooks/02_modeling.ipynb) — including naive, seasonal-naive, Holt-Winters, and the Ridge model.**
 
 
 ---
