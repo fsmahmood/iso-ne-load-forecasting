@@ -1,0 +1,12 @@
+# Ignore raw EIA datasets
+/data/raw/
+
+# Ignore old notebook version
+/notebooks/03_results.ipynb
+
+# Ignore checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS clutter
+.DS_Store
+Thumbs.db
